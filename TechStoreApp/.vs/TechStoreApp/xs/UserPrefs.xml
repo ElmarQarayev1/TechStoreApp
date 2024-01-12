@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{8D5033A6-9248-4B8F-ABE7-40C866DE2A99}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TechStoreApp/Program.cs">
+    <Files>
+      <File FileName="TechStoreApp/Program.cs" Line="21" Column="18" />
+      <File FileName="TechStoreApp/Product.cs" Line="18" Column="2" />
+      <File FileName="TechStoreApp/Notebook.cs" Line="21" Column="2" />
+      <File FileName="TechStoreApp/TechStore.cs" Line="42" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TechStoreApp" expanded="True">
+            <Node name="TechStoreApp">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TechStoreApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

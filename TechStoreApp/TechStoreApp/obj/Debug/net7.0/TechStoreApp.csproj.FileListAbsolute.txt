@@ -1,0 +1,15 @@
+/Users/elmar/Desktop/CodeAcademy/Homeworks/TechStoreApp/TechStoreApp/TechStoreApp/bin/Debug/net7.0/TechStoreApp
+/Users/elmar/Desktop/CodeAcademy/Homeworks/TechStoreApp/TechStoreApp/TechStoreApp/bin/Debug/net7.0/TechStoreApp.deps.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/TechStoreApp/TechStoreApp/TechStoreApp/bin/Debug/net7.0/TechStoreApp.runtimeconfig.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/TechStoreApp/TechStoreApp/TechStoreApp/bin/Debug/net7.0/TechStoreApp.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/TechStoreApp/TechStoreApp/TechStoreApp/bin/Debug/net7.0/TechStoreApp.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/TechStoreApp/TechStoreApp/TechStoreApp/obj/Debug/net7.0/TechStoreApp.csproj.AssemblyReference.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/TechStoreApp/TechStoreApp/TechStoreApp/obj/Debug/net7.0/TechStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmar/Desktop/CodeAcademy/Homeworks/TechStoreApp/TechStoreApp/TechStoreApp/obj/Debug/net7.0/TechStoreApp.AssemblyInfoInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/TechStoreApp/TechStoreApp/TechStoreApp/obj/Debug/net7.0/TechStoreApp.AssemblyInfo.cs
+/Users/elmar/Desktop/CodeAcademy/Homeworks/TechStoreApp/TechStoreApp/TechStoreApp/obj/Debug/net7.0/TechStoreApp.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/TechStoreApp/TechStoreApp/TechStoreApp/obj/Debug/net7.0/TechStoreApp.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/TechStoreApp/TechStoreApp/TechStoreApp/obj/Debug/net7.0/refint/TechStoreApp.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/TechStoreApp/TechStoreApp/TechStoreApp/obj/Debug/net7.0/TechStoreApp.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/TechStoreApp/TechStoreApp/TechStoreApp/obj/Debug/net7.0/TechStoreApp.genruntimeconfig.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/TechStoreApp/TechStoreApp/TechStoreApp/obj/Debug/net7.0/ref/TechStoreApp.dll
